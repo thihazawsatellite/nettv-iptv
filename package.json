@@ -1,11 +1,11 @@
 {
-  "name": "ellipto-iptv",
-  "version": "0.1.0",
-  "description": "Ellipto IPTV is a progressive web app to watch m3u and m3u8 playlists",
-  "homepage": "https://elliptoiptv.vercel.app",
+  "name": "nettv-iptv",
+  "version": "2.1.0",
+  "description": "NetTV IPTV is a progressive web app to watch m3u and m3u8 playlists",
+  "homepage": "https://nettv-iptv.vercel.app",
   "author": {
-    "name": "Md Mobinur Rahaman",
-    "email": "mobinurrahaman@gmail.com"
+    "name": "thihazaw",
+    "email": "thihazawsatellite@gmail.com"
   },
   "keywords": [
     "react",
