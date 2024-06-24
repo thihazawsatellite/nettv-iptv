@@ -281,7 +281,7 @@ export default function Home() {
   }
 
   return (
-    <Page title="Ellipto IPTV">
+    <Page title="NetTV IPTV Player">
       {playlistCount !== null ? (
         playlistCount === 0 ? (
           <Box
